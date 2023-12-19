@@ -3,3 +3,23 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.btn-Clique-me {
+  background-color: red;
+  border-radius: 5px;  
+  padding: 10px;
+}
+
+.div-respostas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.btn-Contador {
+  background-color: rgb(133, 167, 207);
+  border-radius: 5px;  
+  padding: 20px;
+  margin: 20px;
+}
